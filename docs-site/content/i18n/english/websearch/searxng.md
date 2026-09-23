@@ -257,15 +257,15 @@ Now you can open the webpage, and it will prompt you to enter your username and 
 
 ## Cherry Studio Related Configuration
 
-After SearXNG is successfully deployed locally or on a server, the next step is CherryStudio's related configuration.
+After SearXNG is deployed locally or on a server, configure it in Cherry Studio.
 
-Go to the network search settings page and select Searxng:
+Open **Settings → Web Search**, choose **Searxng** from the **Search service provider** dropdown, and enter your SearXNG address in **API Host**:
 
-<figure><img src="../../../assets/320df59f8a1726a1ad711483.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../assets/689d1960339bd636f8b47a83.webp" alt="Search service provider dropdown in Web Search settings with Searxng selected"><figcaption><p>Choose Searxng as the search service provider</p></figcaption></figure>
 
-If entering the locally deployed link results in verification failure, don't worry:
+Click the check icon next to **API Host** to verify the connection. If verification fails, a "Verification failed" message appears at the top — don't worry:
 
-<figure><img src="../../../assets/84394efb52fd620e87b4be56.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../assets/d96daf01103805d9274724f1.webp" alt="Verification failed message after checking the SearXNG API Host"><figcaption><p>A failed verification shows an error message at the top of the window</p></figcaption></figure>
 
 Because the JSON return type is not configured by default after direct deployment, data cannot be fetched, and the configuration file needs to be modified.
 
@@ -306,9 +306,9 @@ If the user followed the previous example for server deployment and correctly co
 
 <figure><img src="../../../assets/bfbbd576e166a5b3c91459da.webp" alt=""><figcaption></figcaption></figure>
 
-Configure HTTP Basic Authentication in the client, enter the username and password set earlier:
+Under **HTTP authentication**, enter the username and password you set earlier:
 
-<figure><img src="../../../assets/bae78c4b90bb9bf592e3df6d.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../assets/d968a154a8d094fa6f57748a.webp" alt="HTTP authentication username and password fields in the SearXNG settings"><figcaption><p>Enter the HTTP Basic Authentication username and password</p></figcaption></figure>
 
 Proceed with verification; it should be successful.
 

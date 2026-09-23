@@ -9,7 +9,7 @@ Cherry Studio can back up your data to any WebDAV service. Because the backup li
 
 Open **Settings → Data → WebDAV** and fill in the details from your WebDAV provider:
 
-<figure><img src="../../../assets/f85d631d5f1adeb98d482c0c.webp" alt="WebDAV settings in Settings → Data with host, user, password, path, backup and restore buttons and backup options"><figcaption><p>Settings → Data → WebDAV</p></figcaption></figure>
+<figure><img src="../../../assets/606a16303b3b226611632114.webp" alt="WebDAV settings in Settings → Data with host, user, password, path, backup and restore buttons and backup options"><figcaption><p>Settings → Data → WebDAV</p></figcaption></figure>
 
 | Setting | Description |
 | --- | --- |
