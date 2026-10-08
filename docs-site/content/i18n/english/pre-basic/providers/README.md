@@ -33,7 +33,6 @@ Cherry Studio groups providers by protocol into the following types, which behav
 #### General / Gateways
 * [CherryAI (Free)](../../../../pre-basic/providers/cherryai)
 * [CherryIN](../../../../pre-basic/providers/cherryin-1.md) — dual endpoints (OpenAI + Anthropic), recommended for Cherry Agent
-* [NewAPI](../../../../pre-basic/providers/newapi.md) — self-hosted / third-party gateway
 
 #### International Providers
 * [OpenAI](../../../../pre-basic/providers/openai.md)

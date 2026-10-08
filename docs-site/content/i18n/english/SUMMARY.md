@@ -55,7 +55,6 @@
       * [SiliconFlow](pre-basic/providers/siliconcloud.md)
     * **Gateways & Custom Providers**
       * [OpenRouter](pre-basic/providers/openrouter.md)
-      * [NewAPI](pre-basic/providers/newapi.md)
       * [Custom AI Service Provider](pre-basic/providers/zi-ding-yi-fu-wu-shang.md)
     * **Local & Developer Services**
       * [Ollama](pre-basic/providers/ollama.md)

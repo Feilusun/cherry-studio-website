@@ -70,7 +70,6 @@ Access multiple models with one key, centralized account management.
 | **AiHubMix** | Overseas aggregator | [aihubmix.com](https://aihubmix.com/) | — |
 | **DMXAPI** | China-based aggregator | [dmxapi.cn](https://dmxapi.cn/) | — |
 | **302.AI** | China-based aggregator | [302.ai](https://302.ai/) | — |
-| **NewAPI** | Self-hosted gateway (open source) | [newapi.pro](https://docs.newapi.pro/) | [→](newapi.md) |
 | **OneAPI** | Self-hosted gateway (open source) | — | — |
 | **PPIO** | China-based cloud computing + models | [ppio.com](https://ppio.com/) | — |
 | **BurnCloud** | China-based aggregator | [burncloud.com](https://ai.burncloud.com/) | — |
