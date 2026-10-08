@@ -85,7 +85,6 @@
         * [S3 Compatible Storage Backup](pre-basic/data-settings/s3-compatible.md)
         * [Notion Configuration Tutorial](pre-basic/data-settings/notion.md)
         * [Obsidian Configuration Tutorial](pre-basic/data-settings/obsidian.md)
-        * [Siyuan Notes Configuration Tutorial](pre-basic/data-settings/siyuan.md)
         * [Change Storage Location](pre-basic/personalization-settings/storage.md)
     * **System**
       * [General Settings](pre-basic/settings/general.md)

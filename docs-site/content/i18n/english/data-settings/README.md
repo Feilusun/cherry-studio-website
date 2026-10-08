@@ -15,7 +15,7 @@ Data Settings is Cherry Studio's **data hub**: everything to do with **backup, r
 | Single computer, worried about disk failure | [WebDAV backup](../../../pre-basic/data-settings/webdav.md) |
 | Want to sync conversations / assistants across several computers | [WebDAV backup](../../../pre-basic/data-settings/webdav.md) — back up on computer A, restore on computer B |
 | Already have S3-compatible storage such as AWS or Alibaba Cloud OSS | [S3-compatible storage backup](../../../pre-basic/data-settings/s3-compatible.md) |
-| Want to archive conversations to a note app automatically | [Notion](../../../pre-basic/data-settings/notion.md) / [Obsidian](../../../pre-basic/data-settings/obsidian.md) / [SiYuan Note](../../../pre-basic/data-settings/siyuan.md) |
+| Want to archive conversations to a note app automatically | [Notion](../../../pre-basic/data-settings/notion.md) / [Obsidian](../../../pre-basic/data-settings/obsidian.md) |
 | Just want to back up to another local folder or an external drive | **Local backup** (choose a backup folder; supports automatic backups and backup file management) |
 
 ## What Gets Backed Up?
