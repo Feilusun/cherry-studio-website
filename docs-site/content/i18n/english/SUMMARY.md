@@ -109,7 +109,7 @@
 * **Advanced Workflows**
   * [Advanced Capability Map](advanced-basic/capability-map.md)
   * [Advanced Chat](advanced-basic/chat/README.md)
-    * [Multi-Model Comparison and Message Branching](advanced-basic/chat/model-compare-branches.md)
+    * [Multi-Model Comparison](advanced-basic/chat/model-compare-branches.md)
     * [Long Conversations, Context, and Message Queues](advanced-basic/chat/context-queue.md)
     * [Artifacts, Citations, and Export](advanced-basic/chat/artifacts-export.md)
   * [Agent Workspace](advanced-basic/agent-workspace/README.md)
