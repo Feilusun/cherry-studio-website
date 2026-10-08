@@ -14,7 +14,7 @@ These cases demonstrate how to combine conversations, Agents, knowledge bases, n
 
 ## General Setup Order
 
-<figure><img src="../../../../assets/2573aee0510e0d6abdabab7f.webp" alt="The Agent workspace is used to combine tasks, files, tools, and deliverables"><figcaption><p>These cases are not isolated settings but complete workflows covering input, execution, review, and delivery. </p></figcaption></figure>
+<figure><img src="../../../../assets/538ad1007c78fe2d3e4c41b6.webp" alt="An Agent conversation in the Agent workspace with a generated file in the reply"><figcaption><p>These cases are not isolated settings but complete workflows covering input, execution, review, and delivery. </p></figcaption></figure>
 
 ## Choosing a Case by Task
 

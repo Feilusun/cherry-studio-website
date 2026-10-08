@@ -7,13 +7,13 @@ Environment Dependencies is used to **manage the binary tools and runtimes requi
 
 Open `Settings → Dependencies` (under **System**):
 
-<figure><img src="../../../../assets/edd81af2d8627638562b77e3.webp" alt=""><figcaption><p>Environment Dependencies: Built-in and Installable Tools</p></figcaption></figure>
+<figure><img src="../../../../assets/97496eb509dd0e409606d494.webp" alt="The Dependencies page with tool cards for uv, Bun, fd, ripgrep, RTK and Lark CLI"><figcaption><p>Dependencies: bundled tools and tools you can install</p></figcaption></figure>
 
-### Built-in and Installable
+### Bundled and Installable
 
 Each tool is displayed as a card with a status indicator:
 
-* Tools marked with <mark style="color:blue;">**Built-in**</mark> are distributed with Cherry Studio and are ready to use out of the box, requiring no action.
+* Tools marked **bundled** are distributed with Cherry Studio and are ready to use out of the box, requiring no action.
 * Uninstalled tools display an **Install** button on their card. Clicking it allows Cherry Studio to automatically download and install the tool into the application directory, without polluting your system environment.
 * Cards provide links to the source repository and official documentation, as well as an entry point to open the local installation directory.
 
@@ -36,7 +36,7 @@ The "**Add Tool**" button in the top-right corner uses the mise tool key to add 
 
 ### Advanced Installation Settings
 
-Click the settings icon in the top-right corner to open "**Advanced Installation Settings**" to fine-tune how tools are downloaded (all fields can be left empty to use defaults):
+Click the settings icon next to the page title to open "**Advanced Installation Settings**" to fine-tune how tools are downloaded (all fields can be left empty to use defaults):
 
 * **GitHub Mirror**: Adds a proxy prefix for GitHub Release downloads (e.g., `https://ghfast.top`), useful when direct connections are unstable.
 * **GitHub Token**: Increases the GitHub API rate limit when querying tools (stored in plaintext locally).
@@ -48,7 +48,7 @@ Most users do not need to operate here directly—when a specific tool is requir
 {% endhint %}
 
 {% hint style="warning" %}
-If an MCP service or Skill reports an error indicating "uv / bun / command not found," first check here to confirm whether the corresponding tool is installed or in "Built-in" status (installation status refreshes automatically; the button in the top-right corner is **Check for Updates**, used to fetch the latest versions of tools).
+If an MCP service or Skill reports an error indicating "uv / bun / command not found," first check here to confirm whether the corresponding tool is installed or marked "bundled" (installation status refreshes automatically; the refresh button next to the page title checks for the latest tool versions).
 {% endhint %}
 
 ***

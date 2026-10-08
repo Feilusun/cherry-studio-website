@@ -295,16 +295,16 @@ Add the `json` type, save, and restart the image
 
 <figure><img src="../../../assets/6a338a946c3d09f4c0a85280.webp" alt=""><figcaption></figcaption></figure>
 
-Return to Cherry Studio to verify; verification successful:
+Return to Cherry Studio, open **Settings → Web Search**, choose **Searxng** as the search service provider, enter the address in **API Host**, and click the check button next to it to verify:
 
-<figure><img src="../../../assets/09ba5a8e53909465e8b82a3a.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../assets/d074d827ebbf833e0473c229.webp" alt="Searxng selected in the Search service provider dropdown in Web Search settings"><figcaption><p>Choose Searxng as the search service provider</p></figcaption></figure>
 
 The address can be filled in as local: [http://localhost](http://localhost) : port number\
 or as the Docker address: [http://host.docker.internal](http://host.docker.internal) : port number
 
-If the user followed the previous example for server deployment and correctly configured the reverse proxy, and has enabled the JSON return type. After entering the address and verifying, since HTTP Basic Authentication has been configured for the reverse proxy, verification should now return a 401 error code:
+If the user followed the previous example for server deployment and correctly configured the reverse proxy, and has enabled the JSON return type. After entering the address and verifying, verification fails at this point because the reverse proxy requires HTTP Basic Authentication (usually a 401 error):
 
-<figure><img src="../../../assets/bfbbd576e166a5b3c91459da.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../assets/c8b262c9c30d5c22329a2271.webp" alt="A Verification failed message at the top of the Web Search settings"><figcaption><p>Verification fails until you enter the authentication details. A connection error such as ERR_CONNECTION_REFUSED instead means the address is unreachable</p></figcaption></figure>
 
 Under **HTTP authentication**, enter the username and password you set earlier:
 

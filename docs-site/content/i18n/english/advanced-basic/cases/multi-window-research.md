@@ -11,7 +11,7 @@ Researchers need to keep reference materials and model comparisons visible while
 *   Independent window: Open the research Agent task and pin it to the top;
 *   Second tab: Open the knowledge base or notes to verify original sources at any time.
 
-<figure><img src="../../../../assets/290e0288048d57cd868cb443.webp" alt="The multi-model selection entry in the conversation"><figcaption><p>The main window retains multi-model comparisons, while the independent window continues running the research Agent. </p></figcaption></figure>
+<figure><img src="../../../../assets/7eea2d9eab50983603d6641b.webp" alt="The model selector with a Multi-select button for choosing several models"><figcaption><p>The main window retains multi-model comparisons, while the independent window continues running the research Agent. </p></figcaption></figure>
 
 ## Workflow
 

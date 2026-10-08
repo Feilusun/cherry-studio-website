@@ -29,7 +29,6 @@ Open the text preview to confirm the answer exists, verify that scanned text has
 
 Ensure the conditions and conclusions required by the question are contained within coherent segments. Prevent headers, footers, and tables of contents from dominating the results.
 
-<figure><img src="../../../assets/5bd8c12bd8d08e785c6a4c42.webp" alt="Smart segmentation, delimiters, chunk size, and overlap size in Knowledge Base Advanced Settings"><figcaption><p>If the text is correct but chunks are incomplete, adjust chunking settings and re-index existing documents. </p></figcaption></figure>
 {% endstep %}
 
 {% step %}

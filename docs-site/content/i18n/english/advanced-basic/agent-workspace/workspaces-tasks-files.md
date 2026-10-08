@@ -13,4 +13,4 @@ Binary files, non-UTF-8 text, and large files are available for preview or openi
 
 <figure><img src="../../../../assets/401d6b23759ab97ded47c2b5.webp" alt="Artifacts, tasks, and background execution information in the Agent right-side status panel"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../assets/2573aee0510e0d6abdabab7f.webp" alt="Task list, working directory, and main action area in the Agent workspace"><figcaption></figcaption></figure>
+<figure><img src="../../../../assets/538ad1007c78fe2d3e4c41b6.webp" alt="An Agent conversation with the agent and task list on the left, the working directory at the top, and a generated file in the reply"><figcaption></figcaption></figure>

@@ -22,7 +22,7 @@ If a task requires continuous local file read/write, multiple tool calls, or lon
 | Queue the next question for later | Use the message queue to avoid interrupting the current reply |
 | Continue processing files or code in a reply | Open the artifact preview, then download, copy, or continue in a new task |
 
-<figure><img src="../../../../assets/290e0288048d57cd868cb443.webp" alt="The model selector and multiple model entries in the conversation"><figcaption><p>The model selector allows you to choose one or more models for the same question. </p></figcaption></figure>
+<figure><img src="../../../../assets/7eea2d9eab50983603d6641b.webp" alt="The model selector with a search box, a Multi-select button and a model list"><figcaption><p>The model selector allows you to choose one or more models for the same question. </p></figcaption></figure>
 
 ## Recommended Order
 
@@ -46,4 +46,4 @@ Save reusable materials to notes or the knowledge base; hand off work that requi
 {% endstep %}
 {% endstepper %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Multi-Model Comparison and Message Branches </strong></td><td>Compare answers while preserving exploration paths </td><td><a href="model-compare-branches.md">model-compare-branches.md </a></td></tr><tr><td><strong>Long Conversations, Context, and Queued Messages </strong></td><td>Keep long conversations clear and controllable </td><td><a href="context-queue.md">context-queue.md </a></td></tr><tr><td><strong>Artifacts, Citations, and Export </strong></td><td>Review and take away truly useful results </td><td><a href="artifacts-export.md">artifacts-export.md </a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Multi-Model Comparison </strong></td><td>Ask several models the same question and compare their answers </td><td><a href="model-compare-branches.md">model-compare-branches.md </a></td></tr><tr><td><strong>Long Conversations, Context, and Queued Messages </strong></td><td>Keep long conversations clear and controllable </td><td><a href="context-queue.md">context-queue.md </a></td></tr><tr><td><strong>Artifacts, Citations, and Export </strong></td><td>Review and take away truly useful results </td><td><a href="artifacts-export.md">artifacts-export.md </a></td></tr></tbody></table>

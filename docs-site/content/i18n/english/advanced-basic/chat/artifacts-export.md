@@ -11,8 +11,6 @@ A single reply may contain body text, code, files, images, citations, and editab
 
 Click an artifact in the message or the Agent file panel to open the corresponding preview on the right. For HTML, you can check page layout and interactions; PDF, Word, PowerPoint, images, and text are displayed according to their formats; `.xlsx` spreadsheets allow you to view worksheets, cell styles, merged cells, formula results, images, and charts directly.
 
-<figure><img src="../../../../assets/4e1d6cc47405edfe8d6fe315.webp" alt="Pre-release checklist page generated in the conversation and HTML preview on the right"><figcaption><p>① The preview area is for verifying complete content; ② The toolbar allows zooming, downloading, maximizing, or switching views. </p></figcaption></figure>
-
 1. Specify the artifact format in the conversation and open the preview on the right.
 2. Check if the content and layout are complete.
 3. If items are missing, return to the conversation to add modification requirements, then open the preview to check again.

@@ -42,7 +42,6 @@ Click the add button in the bottom-left corner of the input area, select [Knowle
 
 The knowledge base name should appear in the input area. If the question involves only one topic, prioritize selecting only one base to reduce competition from irrelevant snippets.
 
-<figure><img src="../../../assets/5baecf3a1e479cb5a9627b45.webp" alt="The conversation input area with the employee travel policy knowledge base selected and a real question entered"><figcaption><p>Before sending, confirm that the selected knowledge base and the current question belong to the same data scope. </p></figcaption></figure>
 {% endstep %}
 
 {% step %}

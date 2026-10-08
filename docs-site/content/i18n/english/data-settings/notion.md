@@ -66,6 +66,6 @@ If your web page is in Chinese, enter `Name`
 
 Congratulations, Notion configuration is complete ✅ You can now export Cherry Studio content to your Notion database.
 
-<figure><img src="../../../assets/495bd98420371cac1d287aa6.webp" alt=""><figcaption><p>Export to Notion</p></figcaption></figure>
+<figure><img src="../../../assets/b87c95a415af296c5aee685f.webp" alt="The message menu with Export expanded and Export to Notion highlighted"><figcaption><p>Open the menu under a message, then choose Export → Export to Notion</p></figcaption></figure>
 
 <figure><img src="../../../assets/a2f47f9cb8810a6160dda621.webp" alt=""><figcaption><p>View export result</p></figcaption></figure>

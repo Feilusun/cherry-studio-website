@@ -20,7 +20,7 @@ Keeping the original files local doesn't mean the whole knowledge base pipeline 
 | BM25 keyword index | Exact-term search | Rebuilt when re-indexing |
 | Vector index | Semantic search | Generated or rebuilt after configuring or changing the embedding model |
 
-<figure><img src="../../../assets/2414cfc005a860f127a4fd96.webp" alt="An Employee Travel Policy knowledge base with several processed items"><figcaption><p>Items in the material list are what the knowledge base manages and indexes — not a live, synced view of the original folder.</p></figcaption></figure>
+<figure><img src="../../../assets/e0b7bca1e8f80854d96a85b7.webp" alt="A knowledge base list of imported files, each showing its type, status and update time"><figcaption><p>Items in the material list are what the knowledge base manages and indexes — not a live, synced view of the original folder.</p></figcaption></figure>
 
 ## Which Boundaries a Query May Cross
 

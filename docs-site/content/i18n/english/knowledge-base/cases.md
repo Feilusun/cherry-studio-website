@@ -62,7 +62,7 @@ Enable employees to query travel approval, accommodation standards, and reimburs
 * Entry: [Accommodation Standards Quick Reference]
 * Entry: [Travel FAQ]
 
-<figure><img src="../../../assets/2414cfc005a860f127a4fd96.webp" alt="An employee travel policy knowledge base composed of multiple policy documents, all ready"><figcaption><p>Maintain policy clauses and FAQs separately so that updating one does not require redoing all materials. </p></figcaption></figure>
+Maintain policy clauses and FAQs as separate entries so that updating one does not require redoing all materials.
 
 ### Recommended Configuration
 

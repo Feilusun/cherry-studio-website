@@ -12,9 +12,7 @@ Advanced tutorials do not list settings menu items one by one; instead, they sta
 When you need to configure a tutorial, channel, scheduled task, or extended capability, prioritize telling the Agent your goal in [Work]. The Agent can help identify what is missing and guide you through common configurations; when you need to verify accounts, keys, or precise parameters, manually adjust them in [Settings].
 {% endhint %}
 
-<figure><img src="../../../assets/8fe4d938af469d667d4071df.webp" alt="Nine main entry points in the Cherry Studio launcher"><figcaption><p>The left-side launcher provides nine main entry points; select the one closest to your task to begin. </p></figcaption></figure>
-
-Chart description: First select the main entry point based on your goal, then add skills, MCP, channels, or scheduled tasks once the workflow is stable.
+First select the main entry point based on your goal, then add skills, MCP, channels, or scheduled tasks once the workflow is stable.
 
 ### Select Entry Point by Goal
 

@@ -82,8 +82,6 @@ Recommended order:
 4. If candidates are roughly correct but the order is unstable, consider the reranking model.
 5. Reindex after adjustments and repeat the same set of tests.
 
-<figure><img src="../../../assets/5bd8c12bd8d08e785c6a4c42.webp" alt="Smart segmentation, delimiters, chunk size, and overlap size in Knowledge Base Advanced Settings"><figcaption><p>If snippets are incomplete, check chunking settings; changes only affect new materials, while old materials require reindexing. </p></figcaption></figure>
-
 ## Configuration Notes
 
 | Setting | Product Default | Suggested Start | Function | Use Case | Notes |

@@ -44,7 +44,7 @@ Open the **Knowledge Base** tab and click **Add Knowledge Base**. Only bind the 
 
 Open **Built-in Tools** and enable **Knowledge Base Search**. Read-only research, Q&A, summarization, and comparison are usually sufficient with this setting.
 
-<figure><img src="../../../assets/39a4ea66c712c2736e5ccf34.webp" alt="Knowledge base search and knowledge base management capabilities in Agent built-in tool settings"><figcaption><p>Search is for reading; management is for modifying materials. Start with the least privilege by default. </p></figcaption></figure>
+<figure><img src="../../../assets/2d4cb5f8568dc51d7e7ad71e.webp" alt="The Built-in tools tab in the Edit Agent dialog, with a switch for each tool"><figcaption><p>Each built-in tool has its own switch. Search is for reading; management is for modifying materials, so start with the least privilege.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

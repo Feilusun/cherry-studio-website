@@ -5,7 +5,7 @@ icon: flask
 
 A product team is preparing for a quarterly review: internal materials are complete, but public information needs to be supplemented, and perspectives from different models must be compared. The final deliverable is a research report that allows verification against sources and clearly distinguishes facts from judgments.
 
-<figure><img src="../../../../assets/290e0288048d57cd868cb443.webp" alt="The model selection and multi-model comparison entry in the conversation input area"><figcaption><p>At the start of the research, define the comparison models and the scope of questions. Do not arbitrarily change criteria midway. </p></figcaption></figure>
+<figure><img src="../../../../assets/7eea2d9eab50983603d6641b.webp" alt="The model selector with a Multi-select button for choosing several models"><figcaption><p>At the start of the research, define the comparison models and the scope of questions. Do not arbitrarily change criteria midway. </p></figcaption></figure>
 
 <figure><img src="../../../../assets/49842a248b90a5707753efa1.webp" alt="Message branch management is used to retain different follow-up paths"><figcaption><p>Place different hypotheses in independent branches, then return to the main line to aggregate confirmed conclusions. </p></figcaption></figure>
 
