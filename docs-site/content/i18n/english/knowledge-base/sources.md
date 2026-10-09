@@ -54,7 +54,7 @@ Choosing **Keep All** allows both old and new content to participate in retrieva
 
 Sources go through stages including copying, reading, chunking, and indexing. If no embedding model is configured, vectors will not be created, but a keyword index will still be built.
 
-<figure><img src="../../../assets/e0b7bca1e8f80854d96a85b7.webp" alt="A knowledge base list where every source shows the Ready status"><figcaption><p>Once a source shows **Ready**, spot-check the content and Chunks. </p></figcaption></figure>
+<figure><img src="../../../assets/e0b7bca1e8f80854d96a85b7.webp" alt="A knowledge base list where every source shows the Ready status"><figcaption><p>Once a source shows <strong>Ready</strong>, spot-check the content and Chunks. </p></figcaption></figure>
 {% endstep %}
 
 {% step %}

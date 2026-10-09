@@ -15,7 +15,7 @@ It is recommended to cover three types of questions:
 
 * Precise facts, e.g., "What is the accommodation cap for first-tier cities in China?"
 * Conditional rules, e.g., "Under what circumstances can overseas car rentals be reimbursed?"
-* Easily confused items, e.g., "Who provides additional approval for business trips exceeding 5,000 CNY?"
+* Easily confused items, e.g., "Who provides additional approval for business trips exceeding $1,000?"
 
 Do not test only with document titles or verbatim sentences from the source, as this overestimates real-world performance.
 

@@ -4,10 +4,10 @@ icon: comments
 ---
 # Advanced Chat
 
-【Chat】is designed for organizing thoughts while you interact. Beyond single-model Q&A, you can compare multiple models side-by-side, manage long conversation contexts, and continue using files, images, code, and citations from replies as artifacts.
+**Chat** is designed for organizing thoughts while you interact. Beyond single-model Q&A, you can compare multiple models side-by-side, manage long conversation contexts, and continue using files, images, code, and citations from replies as artifacts.
 
 {% hint style="info" %}
-If a task requires continuous local file read/write, multiple tool calls, or long-running execution, use the Agent in 【Work】 instead. Chat is better suited for discussion, comparison, and finalizing drafts, while Agent is better suited for execution.
+If a task requires continuous local file read/write, multiple tool calls, or long-running execution, use the Agent in **Work** instead. Chat is better suited for discussion, comparison, and finalizing drafts, while Agent is better suited for execution.
 {% endhint %}
 
 <figure><img src="../../../../assets/90f403b5989c5c90a6717d56.webp" alt="The selection flowchart in Advanced Conversation from complete questions to comparison and deliverables"><figcaption><p>Write your question and output requirements completely first; add model comparison or message branches only when cross-validation is needed. </p></figcaption></figure>

@@ -4,7 +4,7 @@ icon: cloud-plus
 
 # Model Service Configuration
 
-Cherry Studio ships with connection templates for 60+ providers (model service vendors), covering most mainstream models in China and abroad as well as local inference frameworks. This section provides a separate configuration guide for each provider.
+Cherry Studio ships with connection templates for 60+ providers (model service vendors), covering most mainstream models from around the world as well as local inference frameworks. This section provides a separate configuration guide for each provider.
 
 ### Provider Types
 

@@ -77,7 +77,7 @@ Maintain policy clauses and FAQs as separate entries so that updating one does n
 
 1. What is the maximum reimbursable amount for hotel stays on business trips?
 2. Can overseas car rentals be reimbursed?
-3. Who approves the total cost if it exceeds 5,000 CNY?
+3. Who approves the total cost if it exceeds $1,000?
 4. How is it handled if a hotel is booked without prior approval?
 
 ### Chat Prompt

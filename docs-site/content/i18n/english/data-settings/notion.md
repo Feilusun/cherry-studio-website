@@ -33,7 +33,7 @@ In [Notion](https://www.notion.so/), create a new page, choose **Database** as t
 
 Open the database and copy its URL. If the URL looks like this:
 
-https://www.notion.so/\<long\_hash\_1>?v=\<long\_hash\_2>
+`https://www.notion.so/<long_hash_1>?v=<long_hash_2>`
 
 the database ID is the `<long_hash_1>` part. Enter it in Cherry Studio and click **Check**.
 
