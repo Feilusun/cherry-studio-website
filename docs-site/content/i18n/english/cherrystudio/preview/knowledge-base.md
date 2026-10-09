@@ -39,7 +39,7 @@ Limitations of sending files directly:
 
 * **Knowledge base + assistant**: "attach" a knowledge base to an assistant to make it a specialist in that domain
 * **Knowledge base +** [**Agent**](../../../../advanced-basic/agent.md): let an agent look things up in the knowledge base while it works on a task
-* **Knowledge base +** [**Channels**](../../../../advanced-basic/automation/channels.md): station an agent that "knows the company docs" in a Feishu (Lark) group
+* **Knowledge base +** [**Channels**](../../../../advanced-basic/automation/channels.md): station an agent that "knows the company docs" in a team Slack channel
 
 {% hint style="info" %}
 We recommend reading the [Advanced Capability Map](../../../../advanced-basic/capability-map.md) first to see how knowledge bases work together with agents, MCP, channels and other features.

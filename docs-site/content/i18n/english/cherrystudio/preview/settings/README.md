@@ -42,7 +42,7 @@ Cherry Studio's settings panel covers everything from **model configuration and 
 
 | Setting | Doc | What it covers |
 | --- | --- | --- |
-| Channels | [Channels](../../../../../advanced-basic/automation/channels.md) | Connecting Agents to Feishu (Lark), Telegram and more |
+| Channels | [Channels](../../../../../advanced-basic/automation/channels.md) | Connecting Agents to Telegram, Slack and more |
 | Device Connections | — | Not documented yet |
 | Scheduled Tasks | [Scheduled Tasks](../../../../../advanced-basic/automation/scheduled-heartbeat.md) | Running Agents on a cron schedule |
 | Keyboard Shortcuts | [Shortcut Settings](../../../../../pre-basic/settings/key-shortcut.md) | Changing, enabling and disabling every shortcut |
