@@ -36,7 +36,7 @@ Ensure the conditions and conclusions required by the question are contained wit
 
 Check source names, relevance scores, and chunk content. Missing correct chunks and correct chunks ranking low are two distinct issues.
 
-<figure><img src="../../../assets/b44776524449cdefe62eaed3.webp" alt="Recall test results list showing source name, relevance, and matched snippets"><figcaption><p>First prove that the retrieval layer returns the correct evidence, then adjust the conversation prompt. </p></figcaption></figure>
+<figure><img src="../../../assets/af1feea005e3e8d5f43dd167.webp" alt="The Recall Test panel with a test query box and a Search button"><figcaption><p>Use Recall Test to confirm the retrieval layer returns the correct evidence before adjusting the conversation prompt.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -39,7 +39,7 @@ Enter a question with a clear answer and run the test. The question should resem
 
 Confirm the source is correct and that the snippet contains both the conditions and the conclusion required for the answer.
 
-<figure><img src="../../../assets/b44776524449cdefe62eaed3.webp" alt="Hit sources, relevance, snippet content, and ranking in recall tests"><figcaption><p>Do not just check if results exist; also verify the source, snippet completeness, and order. </p></figcaption></figure>
+<figure><img src="../../../assets/af1feea005e3e8d5f43dd167.webp" alt="The Recall Test panel with a test query box and a Search button"><figcaption><p>Click Recall Test at the top right of the knowledge base, enter a question and click Search. Then check the source, snippet completeness and order of the matched chunks.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
