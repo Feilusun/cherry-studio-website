@@ -146,7 +146,6 @@
     * [Private Knowledge Base Q&A](advanced-basic/cases/private-knowledge-qa.md)
     * [Notes to Weekly Report](advanced-basic/cases/notes-weekly-report.md)
     * [Multilingual Material Preparation](advanced-basic/cases/multilingual-materials.md)
-    * [Channels and Scheduled Daily Reports](advanced-basic/cases/automated-daily-report.md)
     * [Multi-Window Research Workbench](advanced-basic/cases/multi-window-research.md)
 
 ## Mobile
