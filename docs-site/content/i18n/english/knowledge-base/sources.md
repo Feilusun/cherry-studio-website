@@ -68,7 +68,7 @@ Open the source to view the content, or view Chunks from the source row menu. Fo
 
 Use a question with a clear answer to verify the correct source and snippet. After updating sources, re-test using the same set of questions.
 
-<figure><img src="../../../assets/af1feea005e3e8d5f43dd167.webp" alt="The Recall Test panel with a test query box and a Search button"><figcaption><p>Enter a question in Recall Test and click Search. Matched chunks and scores appear in the panel; check the source, completeness and ranking.</p></figcaption></figure>
+<figure><img src="../../../assets/f134353a322ca6669467f2c9.webp" alt="Recall Test results listing matched chunks with their source file and rank"><figcaption><p>Enter a question in Recall Test and click Search. Matched chunks and scores appear in the panel; check the source, completeness and ranking.</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

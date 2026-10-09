@@ -61,7 +61,7 @@ Check the source name, snippet content, and applicable conditions. Content not s
 
 Use the same question to check the snippets returned by the knowledge base. If recall is incorrect, fix the data, parsing, or retrieval first. If recall is correct, then adjust the prompt and chat model.
 
-<figure><img src="../../../assets/af1feea005e3e8d5f43dd167.webp" alt="The Recall Test panel with a test query box and a Search button"><figcaption><p>Run the same question in Recall Test to see whether the problem lies in retrieval or in the answer.</p></figcaption></figure>
+<figure><img src="../../../assets/f134353a322ca6669467f2c9.webp" alt="Recall Test results listing matched chunks with their source file and rank"><figcaption><p>Run the same question in Recall Test to see whether the problem lies in retrieval or in the answer.</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

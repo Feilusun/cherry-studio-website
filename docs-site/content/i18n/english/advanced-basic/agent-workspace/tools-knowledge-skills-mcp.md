@@ -7,7 +7,7 @@ These four capabilities enhance the Agent, but they solve different problems: bu
 
 ### Differences and Combinations
 
-<figure><img src="../../../../assets/6be829efa6152cf0a3576cba.webp" alt="Built-in tool categories and toggles in the Agent editing window"><figcaption></figcaption></figure>
+<figure><img src="../../../../assets/2351267cfa27c4d2d69ffa4b.webp" alt="The Built-in tools tab of Edit Agent with Browser, File, Shell and Search tool switches"><figcaption></figcaption></figure>
 
 | Capability | Problem Solved | Examples |
 | ---- | ----------------------------- | ------------------------- |
@@ -20,7 +20,7 @@ Configuration path: Left navigation [Work] → Open Agent menu → [Edit] → [B
 
 ### Built-in Tools
 
-Built-in tools are grouped by context, files, multimedia, orchestration, search, and terminal. Common capabilities include:
+Built-in tools are grouped into Browser, File, Shell, Search, Context, Orchestration, and Media. Common capabilities include:
 
 * [Image Generation]: Uses the configured drawing model;
 * [Knowledge Search] and [Manage Knowledge]: Appear only after a knowledge base is bound;

@@ -41,9 +41,7 @@ Check the report in the [Files] panel on the right side of the Agent, and open t
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../../../assets/dfd13a051aabfa0e22e0dae5.webp" alt="The 'Open in New Window' action in the tab menu"><figcaption><p>Split the Agent task into an independent window from the tab menu. </p></figcaption></figure>
-
-<figure><img src="../../../../assets/7a060c53e732670de6a559fe.webp" alt="The complete release plan review results still displayed in the independent Cherry Studio window split from the main window"><figcaption><p>① The independent window retains the original question; ② Results and subsequent actions are fully preserved, allowing the main window to continue searching for information or organizing notes. </p></figcaption></figure>
+<figure><img src="../../../../assets/db3a399c58e8ea68a9642555.webp" alt="The tab menu with Move to First, Pin Tab, Open in New Window, Close Tab, Close Other Tabs and Close Tabs to the Right"><figcaption><p>Split the Agent task into an independent window from the tab menu. </p></figcaption></figure>
 
 ## Recommended Combinations and Completion Criteria
 

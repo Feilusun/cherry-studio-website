@@ -5,7 +5,7 @@ icon: shield-halved
 
 Agents can perform file, terminal, and network operations, and can also invoke sub-agents and background tasks. Permissions determine "whether to ask first," memory determines "whether it will still know next time," and the status panel on the right tells you "what is happening now."
 
-<figure><img src="../../../../assets/ca32d76b397f07bbf09648e8.webp" alt="The Permission mode dropdown in Edit Agent with Ask Before Acting, Plan Only, Auto-accept Edits, Approve for Me and Full Access"><figcaption><p>For daily use, start with Ask Before Acting; use Plan Only when you want to review the approach first, and use Full Access only for tasks with clear boundaries that are recoverable. </p></figcaption></figure>
+<figure><img src="../../../../assets/82ac06f29f62ff95d5863bbe.webp" alt="The Permission mode dropdown in Edit Agent with Ask Before Acting, Plan Only, Auto-accept Edits, Approve for Me and Full Access"><figcaption><p>For daily use, start with Ask Before Acting; use Plan Only when you want to review the approach first, and use Full Access only for tasks with clear boundaries that are recoverable. </p></figcaption></figure>
 
 ### Permission Modes
 

@@ -21,7 +21,7 @@ icon: language
 
 Select 【Auto Detect】 as the source language and 【English】 as the target language. Enter the Chinese text and click 【Translate】. Once the result appears, first verify key meanings such as "grayscale," "monitoring metrics," and "rollback process," then copy or save it to your notes.
 
-<figure><img src="../../../../assets/5428125ff9f2c41e29e8c2ed.webp" alt="Complete English translation of the Chinese release plan"><figcaption><p>① The original text is retained on the left; ② The translation is displayed on the right. Before delivery, verify grayscale release, monitoring metrics, and rollback process item by item. </p></figcaption></figure>
+<figure><img src="../../../../assets/4e6d327879ccf512db663bc4.webp" alt="The Translate page with the source text on the left and the translation on the right"><figcaption><p>① The original text is retained on the left; ② The translation is displayed on the right. Before delivery, check key terms item by item.</p></figcaption></figure>
 
 #### What to Check After Results Appear
 

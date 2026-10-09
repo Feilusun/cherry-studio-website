@@ -32,7 +32,7 @@ The example uses 【GPT-Image-2 | express】 to generate a wide workspace illust
 
 Do not leave immediately after generation: first zoom in to check the subject, edges, and extraneous elements, then switch versions from the history on the left. When adjustments are needed, keep the effective descriptions and modify only one aspect.
 
-<figure><img src="../../../../assets/2ba55ffd828250f31afa2b16.jpg" alt="Morning light workspace illustration generated with GPT-Image-2 express and history"><figcaption><p>① History thumbnails for this generation are kept on the left; ② The full finished product is displayed in the center; ③ Zoom in to inspect before downloading, copying, or continuing to edit. </p></figcaption></figure>
+<figure><img src="../../../../assets/b51ef44b212ce6e8aa7962a8.webp" alt="The Paintings page with history thumbnails on the left, the generated image in the center and zoom tools beside it"><figcaption><p>① History thumbnails for this generation are kept on the left; ② The full finished product is displayed in the center; ③ Zoom in to inspect before downloading, copying, or continuing to edit. </p></figcaption></figure>
 
 ## Completing a Usable Image
 

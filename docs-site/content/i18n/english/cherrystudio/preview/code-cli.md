@@ -16,7 +16,7 @@ icon: terminal
 * Preserves native login methods for CLIs that use their own account login;
 * Launches the tool after selecting a working directory and a system-detected terminal.
 
-The page currently includes tools such as Claude Code, OpenAI Codex, Antigravity CLI, OpenCode, Qwen Code, Kimi Code, Qoder CLI, GitHub Copilot CLI, Pi, Hermes Agent, OpenClaw and DeepSeek Harness. The visible items may change with product updates; refer to the page list for the current availability.
+The page currently includes tools such as Claude Code, OpenAI Codex, Antigravity CLI, OpenCode, Qwen Code, Kimi Code, Qoder CLI, GitHub Copilot CLI, Pi, Hermes Agent, OpenClaw, DeepSeek Harness and MiniMax Code. The visible items may change with product updates; refer to the page list for the current availability.
 
 For CLIs that use Cherry Studio model services, the **Model Providers** list on the right shows the compatible providers. It also includes **Unified Gateway** ("Any CLI, every model"), which routes the CLI through Cherry Studio's gateway so it can use any model you have configured. You can drag providers to reorder them, and search the list with **Search providers…**.
 

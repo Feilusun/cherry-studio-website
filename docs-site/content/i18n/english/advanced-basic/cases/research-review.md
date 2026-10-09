@@ -7,7 +7,7 @@ A product team is preparing for a quarterly review: internal materials are compl
 
 <figure><img src="../../../../assets/7eea2d9eab50983603d6641b.webp" alt="The model selector with a Multi-select button for choosing several models"><figcaption><p>At the start of the research, define the comparison models and the scope of questions. Do not arbitrarily change criteria midway. </p></figcaption></figure>
 
-<figure><img src="../../../../assets/49842a248b90a5707753efa1.webp" alt="Message branch management is used to retain different follow-up paths"><figcaption><p>Place different hypotheses in independent branches, then return to the main line to aggregate confirmed conclusions. </p></figcaption></figure>
+<figure><img src="../../../../assets/d54bbfbc48e09c6f992170a1.webp" alt="The Branch Management panel opened next to a chat"><figcaption><p>Place different hypotheses in independent branches, then return to the main line to aggregate confirmed conclusions. </p></figcaption></figure>
 
 <figure><img src="../../../../assets/20eae1a141993f3367a544b0.webp" alt="After proposing unified inspection requirements for the release plan, Cherry Assistant provided actual review results covering security, stability, monitoring, rollback, notifications, and acceptance"><figcaption><p>① Clearly state the evaluation dimensions and known conditions in the prompt; ② Expand results using the same structure to facilitate comparison, follow-up questions, and manual verification. </p></figcaption></figure>
 
