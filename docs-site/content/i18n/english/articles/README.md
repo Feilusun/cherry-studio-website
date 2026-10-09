@@ -1,10 +1,10 @@
 ---
-description: Practical Cherry Studio guides — use GPT, Claude, Gemini, DeepSeek and local models in one desktop app, build AI agents, chat with your documents and more.
+description: Cherry Studio articles — how to use GPT, Claude, Gemini, DeepSeek and local models in one desktop app, build AI agents, chat with your documents and more.
 icon: compass
 ---
-# Cherry Studio Guides
+# Cherry Studio Articles
 
-Step-by-step guides for getting real work done with Cherry Studio, the free desktop AI client for Windows, macOS and Linux. Each guide starts from a goal and links to the reference pages you need along the way.
+Articles on getting real work done with Cherry Studio, the free desktop AI client for Windows, macOS and Linux. Each one starts from a goal and links to the reference pages you need along the way.
 
 ## Use Popular Models in One App
 
