@@ -22,7 +22,7 @@ Operations colleagues need to organize scattered materials into an index, summar
 {% step %}
 ### 1. Select the Minimal Working Directory
 
-Select only the current project directory. Ensure important files have backups or version history, and start permissions with [Confirm Each Time].
+Select only the current project directory. Ensure important files have backups or version history, and start permissions with [Ask Before Acting].
 {% endstep %}
 
 {% step %}
@@ -55,7 +55,7 @@ Organize the current directory. Files in raw/ are read-only; create an index, su
 | Capability | Suggested Usage | Why |
 | ---- | ------------ | ----------------- |
 | Working Directory | Use a separate directory for each project | Clear file boundaries and delivery locations |
-| Permissions | Keep [Confirm Each Time] for file modifications | Helps detect accidental deletions, overwrites, and out-of-scope writes |
+| Permissions | Keep [Ask Before Acting] for file modifications | Helps detect accidental deletions, overwrites, and out-of-scope writes |
 | Status Panel | Check outputs and failed steps before finishing | Do not rely solely on "Agent says it's done" |
 | New Task | Start a new task for new phases or clients | Prevents historical requirements from affecting current delivery |
 

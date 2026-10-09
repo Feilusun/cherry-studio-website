@@ -14,8 +14,7 @@ The creation wizard consists of four steps: [Basic info], [System Prompt], [Skil
 | Runtime Mode | Key Features | Model Configuration | Permissions & Limitations |
 | ------------------ | ------------------- | -------------------- | ------------------------------------ |
 | [Claude Agent] | Full capability set, suitable for complex, multi-step tasks | Main model, Plan model, Small model | Supports all permission modes and heartbeat detection |
-| [Pi] | Fast response, low overhead, suitable for daily file and coding tasks | Main model only | Does not provide [Plan Only]; defaults to [Smart Approval] upon creation |
-| [DeepSeek Harness] | Compatible with multiple model services, supports goal-driven execution | Main model only | Does not provide [Smart Approval] or heartbeat detection; supports `/compact`, `/goal` |
+| [Pi] | Fast response, low overhead, suitable for daily file and coding tasks | Main model only | Does not provide [Plan Only]; defaults to [Approve for Me] upon creation |
 
 {% hint style="warning" %}
 The runtime mode cannot be changed after creation. If your goals, model compatibility, or permission requirements change fundamentally, create a new Agent instead of modifying the existing one.
@@ -73,13 +72,13 @@ The current editing window automatically saves changes. If there is unsaved cont
 | --------------- | ----------------------------- | ----------------------- | -------------- | ------------------ | ---------------------------------- |
 | Runtime Mode | [Claude Agent] | Use [Claude Agent] if unsure | Determines model roles, permissions, and tool scope | All Agents | Cannot be switched after creation |
 | Main Model | Model selected during creation | Choose a model verified to call tools stably | Primary reasoning and execution | All Agents | The selector filters incompatible models based on runtime mode |
-| Plan / Small Model | Same as main model | Keep consistent with the main model initially | Task decomposition, simple judgments, and formatting | [Claude Agent] only | Pi and DeepSeek Harness do not display these fields |
-| Permission Mode | Claude/DSH: [Confirm Each Time]; Pi: [Smart Approval] | Prefer [Confirm Each Time] for real project directories | Determines if tools require approval | File, terminal, and network tasks | [Full Access] may delete files or access the network |
-| Heartbeat Detection | Enabled initially for supported runtime modes, 30-minute interval | Disable if no continuous tasks | Allows the Agent to periodically check work | Claude Agent, Pi | DeepSeek Harness does not provide heartbeat detection; use scheduled tasks for fixed times |
+| Plan / Small Model | Same as main model | Keep consistent with the main model initially | Task decomposition, simple judgments, and formatting | [Claude Agent] only | Pi does not display these fields |
+| Permission Mode | Claude Agent: [Ask Before Acting]; Pi: [Approve for Me] | Prefer [Ask Before Acting] for real project directories | Determines if tools require approval | File, terminal, and network tasks | [Full Access] may delete files or access the network |
+| Heartbeat Detection | Enabled initially for supported runtime modes, 30-minute interval | Disable if no continuous tasks | Allows the Agent to periodically check work | Claude Agent, Pi | Use scheduled tasks for fixed times |
 
 ### User Case: Contract Review Agent
 
-Create a "Contract Review" Agent. Select a verified model as the main model. In the prompt, require output in the format of "Risk Clauses, Original Text Location, Impact, Suggestions." Bind the company policy knowledge base and keep permissions set to [Confirm Each Time]. Create a new task for each contract and select the corresponding file directory to avoid mixing different client materials in the same context.
+Create a "Contract Review" Agent. Select a verified model as the main model. In the prompt, require output in the format of "Risk Clauses, Original Text Location, Impact, Suggestions." Bind the company policy knowledge base and keep permissions set to [Ask Before Acting]. Create a new task for each contract and select the corresponding file directory to avoid mixing different client materials in the same context.
 
 <details>
 

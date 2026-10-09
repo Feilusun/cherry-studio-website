@@ -72,7 +72,7 @@ The API Gateway is a runtime dependency for Agents, but this does not mean you s
 
 ### User Case: Organizing Project Materials
 
-A product manager places requirement specifications, interview records, and competitor materials in the same directory. They create a "Requirement Organization" Agent, bind the product knowledge base, and use the **Confirm Each Step** permission. The Agent first reads the materials, then writes the requirement list and pending questions to a new file. The product manager directly revises the text in the **Files** section on the right, while the original materials remain unchanged.
+A product manager places requirement specifications, interview records, and competitor materials in the same directory. They create a "Requirement Organization" Agent, bind the product knowledge base, and use the **Ask Before Acting** permission mode. The Agent first reads the materials, then writes the requirement list and pending questions to a new file. The product manager directly revises the text in the **Files** section on the right, while the original materials remain unchanged.
 
 <details>
 

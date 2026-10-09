@@ -49,14 +49,14 @@ Enable installed skills in [Skills]. Skill content enters the Agent's working en
 First, connect and start servers in [Settings] → [MCP], then return to the Agent edit window to bind them in [MCP]. Servers that are not running cannot be enabled; once connected, the tools they provide enter the Agent's tool directory and remain subject to permission mode controls. If a server also provides resources or prompts, you can select and use them directly from the [+] panel in the input area.
 
 {% hint style="danger" %}
-Enabling a tool does not mean you should skip approval. For file writes, terminal commands, external data modifications, and potentially billable image generation, prioritize [Confirm Each Time]; use looser permissions only for tools with trusted sources and clear risks.
+Enabling a tool does not mean you should skip approval. For file writes, terminal commands, external data modifications, and potentially billable image generation, prioritize [Ask Before Acting]; use looser permissions only for tools with trusted sources and clear risks.
 {% endhint %}
 
 ### Recommended Combinations
 
 | Task Requirement | Suggested Combination | When to Add More | Notes |
 | -------- | ------------- | ------------- | ------------- |
-| Process local files | File tools + dedicated working directory | Add skills when fixed formats are needed | Keep [Confirm Each Time] enabled |
+| Process local files | File tools + dedicated working directory | Add skills when fixed formats are needed | Keep [Ask Before Acting] enabled |
 | Answer based on internal materials | Knowledge base + Knowledge Search | Hand off to channels after retrieval is stable | Test with questions that have no answers first |
 | Execute fixed processes repeatedly | Skills + necessary built-in tools | Add MCP when external data is needed | Do not store account keys in skills |
 | Call external systems | MCP + minimal privilege credentials | Relax approvals after tasks are stable | Confirm writes, deletions, and billable operations |

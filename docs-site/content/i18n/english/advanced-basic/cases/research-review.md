@@ -31,7 +31,7 @@ Select multiple models in [Chat] and ask each to list conclusions, assumptions, 
 {% step %}
 ### 2. Create a Research Agent
 
-Bind relevant knowledge bases and research skills. Keep permissions set to [Confirm Each Time]. In the working directory, separate raw materials from the `report/` output directory.
+Bind relevant knowledge bases and research skills. Keep permissions set to [Ask Before Acting]. In the working directory, separate raw materials from the `report/` output directory.
 {% endstep %}
 
 {% step %}

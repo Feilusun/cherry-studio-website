@@ -5,21 +5,21 @@ icon: shield-halved
 
 Agents can perform file, terminal, and network operations, and can also invoke sub-agents and background tasks. Permissions determine "whether to ask first," memory determines "whether it will still know next time," and the status panel on the right tells you "what is happening now."
 
-<figure><img src="../../../../assets/ccb5ce9eb543d9f9d2ccccbd.webp" alt="Optional Agent modes: Plan only, Default, Auto-approve, and Full access"><figcaption><p>For daily use, start with default permissions; use Plan mode only when you want to review the approach first, and use Full Access only for tasks with clear boundaries that are recoverable. </p></figcaption></figure>
+<figure><img src="../../../../assets/ca32d76b397f07bbf09648e8.webp" alt="The Permission mode dropdown in Edit Agent with Ask Before Acting, Plan Only, Auto-accept Edits, Approve for Me and Full Access"><figcaption><p>For daily use, start with Ask Before Acting; use Plan Only when you want to review the approach first, and use Full Access only for tasks with clear boundaries that are recoverable. </p></figcaption></figure>
 
 ### Permission Modes
 
 | Mode | Behavior | Use Case | Notes |
 | -------- | ------------- | ------------- | ---------------- |
-| 【Ask Every Time】 | Asks before editing files or executing commands | Default starting point, real project directories | Frequent confirmations for many operations, but easiest to control |
-| 【Auto-Accept Edits】 | Can edit files, asks before executing commands | Document organization, recoverable code changes | Confirm working directory and version control status first |
-| 【Smart Approval】 | Safety checks decide whether to allow | Model supports it and task boundaries are clear | Some models may still ask every time |
-| 【Plan Only】 | Plans only, does not edit files | Solution review, pre-release audit | Suitable for reviewing the plan before execution |
+| 【Ask Before Acting】 | Asks before editing files or running commands | Default starting point, real project directories | Frequent confirmations for many operations, but easiest to control |
+| 【Auto-accept Edits】 | Edits files freely, asks before running commands | Document organization, recoverable code changes | Confirm working directory and version control status first |
+| 【Approve for Me】 | Runs without routine prompts; a safety check blocks risky actions | Model supports it and task boundaries are clear | Some models may still ask every time |
+| 【Plan Only】 | Plans without editing files; only read-only or vetted commands run | Solution review, pre-release audit | Suitable for reviewing the plan before execution |
 | 【Full Access】 | Skips permission checks | Isolated, trusted, recoverable environments | May delete files or access the network, highest risk |
 
-The permission scope provided by different execution modes is not exactly the same: Pi does not provide 【Plan Only】, and new Pi Agents default to 【Smart Approval】; DeepSeek Harness does not provide 【Smart Approval】; 【Claude Agent】 provides all five modes.
+The available modes depend on the runtime mode: Pi does not provide 【Plan Only】, and new Pi Agents default to 【Approve for Me】; 【Claude Agent】 provides all five modes.
 
-Configuration path: Left navigation 【Work】 → Agent menu → 【Edit】 → 【Basic】 → 【Permission Mode】.
+Configuration path: Left navigation 【Work】 → Agent menu → 【Edit】 → 【Basic】 → 【Permission mode】.
 
 {% hint style="danger" %}
 Channels can individually override the Agent's permission mode. External chat entry points are more likely to receive unexpected instructions, so you should usually choose 【Inherit Agent Settings】 or a stricter mode than the Agent. Do not enable Full Access just to avoid a few confirmations.
