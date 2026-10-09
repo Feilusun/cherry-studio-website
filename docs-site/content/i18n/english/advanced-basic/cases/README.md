@@ -20,7 +20,7 @@ These cases demonstrate how to combine conversations, Agents, knowledge bases, n
 
 | Your Task | Recommended Case | Key Capabilities |
 | ----------- | -------------- | -------------- |
-| Compare perspectives and preserve the research process | [Multi-Model Research Review] | Conversations, branches, notes |
+| Compare perspectives and preserve the research process | [Multi-Model Research Review] | Conversations, notes |
 | Deliver project documents and artifacts | [Agent Project File Delivery] | Agent, state, files |
 | Generate a set of stylistically consistent images | [Brand Image Kit] | Agent image generation, image templates |
 | Answer only based on internal materials | [Private Knowledge Base QA] | Knowledge base, retrieval testing, Agent |

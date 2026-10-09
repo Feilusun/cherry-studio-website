@@ -1,23 +1,22 @@
 ---
-description: Multi-model, branching, long conversations, and deliverables
+description: Multi-model, long conversations, and deliverables
 icon: comments
 ---
 # Advanced Chat
 
-【Chat】is designed for organizing thoughts while you interact. Beyond single-model Q&A, you can compare multiple models side-by-side, create branches from any message, manage long conversation contexts, and continue using files, images, code, and citations from replies as artifacts.
+【Chat】is designed for organizing thoughts while you interact. Beyond single-model Q&A, you can compare multiple models side-by-side, manage long conversation contexts, and continue using files, images, code, and citations from replies as artifacts.
 
 {% hint style="info" %}
 If a task requires continuous local file read/write, multiple tool calls, or long-running execution, use the Agent in 【Work】 instead. Chat is better suited for discussion, comparison, and finalizing drafts, while Agent is better suited for execution.
 {% endhint %}
 
-<figure><img src="../../../../assets/31566aca8e5cc1c70f3e7377.webp" alt="The selection flowchart in Advanced Conversation from complete questions to comparison, branching, and deliverables"><figcaption><p>Write your question and output requirements completely first; add model comparison or message branches only when cross-validation is needed. </p></figcaption></figure>
+<figure><img src="../../../../assets/90f403b5989c5c90a6717d56.webp" alt="The selection flowchart in Advanced Conversation from complete questions to comparison and deliverables"><figcaption><p>Write your question and output requirements completely first; add model comparison or message branches only when cross-validation is needed. </p></figcaption></figure>
 
 ## Choose Capabilities by Goal
 
 | Goal | Recommended Approach |
 | ------------- | --------------------- |
 | Compare perspectives from different models | Select multiple models in the input area and send the same question |
-| Preserve the original discussion while exploring another path | Create a branch from a key message |
 | Continue a very long discussion | Check context usage; summarize and start a new topic if necessary |
 | Queue the next question for later | Use the message queue to avoid interrupting the current reply |
 | Continue processing files or code in a reply | Open the artifact preview, then download, copy, or continue in a new task |
