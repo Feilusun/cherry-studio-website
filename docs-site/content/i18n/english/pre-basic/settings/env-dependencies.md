@@ -7,7 +7,7 @@ Environment Dependencies is used to **manage the binary tools and runtimes requi
 
 Open `Settings → Dependencies` (under **System**):
 
-<figure><img src="../../../../assets/97496eb509dd0e409606d494.webp" alt="The Dependencies page with tool cards for uv, Bun, fd, ripgrep, RTK and Lark CLI"><figcaption><p>Dependencies: bundled tools and tools you can install</p></figcaption></figure>
+<figure><img src="../../../../assets/97496eb509dd0e409606d494.webp" alt="The Dependencies page with tool cards for bundled and installable tools"><figcaption><p>Dependencies: bundled tools and tools you can install</p></figcaption></figure>
 
 ### Bundled and Installable
 
@@ -26,7 +26,6 @@ Overview of common tools:
 | **fd** | Fast file search tool, a replacement for `find` |
 | **ripgrep (rg)** | Fast text search tool, a replacement for `grep` |
 | **RTK** | CLI proxy tool that compresses terminal output to reduce LLM token consumption |
-| **Lark CLI** | Official Lark CLI covering 200+ commands for messages, documents, multi-dimensional tables, calendars, etc. |
 
 The page also lists tools such as `gh` (GitHub CLI), `ntn` (Notion CLI), and `pi` in cards, which can be installed with one click as needed. (Coding CLIs like Claude Code / Codex are managed on the [Code Mate](../../cherrystudio/preview/code-cli.md) page, not here.)
 
@@ -38,9 +37,9 @@ The "**Add Tool**" button in the top-right corner uses the mise tool key to add 
 
 Click the settings icon next to the page title to open "**Advanced Installation Settings**" to fine-tune how tools are downloaded (all fields can be left empty to use defaults):
 
-* **GitHub Mirror**: Adds a proxy prefix for GitHub Release downloads (e.g., `https://ghfast.top`), useful when direct connections are unstable.
+* **GitHub Mirror**: Adds a proxy prefix for GitHub Release downloads, useful when direct connections are unstable.
 * **GitHub Token**: Increases the GitHub API rate limit when querying tools (stored in plaintext locally).
-* **npm Mirror / pip Index URL**: Sets mirrors for `npm:` / `pipx:` type tools (if left empty, a mirror is automatically selected for users in mainland China).
+* **npm Mirror / pip Index URL**: Sets mirrors for `npm:` / `pipx:` type tools.
 * **Verify Tool Signatures**: Verifies Sigstore / SLSA signatures for tools; generally recommended to keep enabled.
 
 {% hint style="info" %}

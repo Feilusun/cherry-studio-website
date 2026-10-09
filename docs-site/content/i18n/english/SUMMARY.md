@@ -141,7 +141,6 @@
     * [Code Mate (Code CLI)](advanced-basic/developer-tools/code-cli.md)
   * [Application Cases](advanced-basic/cases/README.md)
     * [Multi-Model Research Review](advanced-basic/cases/research-review.md)
-    * [Long Document Review](advanced-basic/cases/long-document-review.md)
     * [Agent Project File Delivery](advanced-basic/cases/project-delivery.md)
     * [Brand Image Kit](advanced-basic/cases/brand-image-kit.md)
     * [Private Knowledge Base Q&A](advanced-basic/cases/private-knowledge-qa.md)
