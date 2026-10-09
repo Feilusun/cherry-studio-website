@@ -99,12 +99,3 @@ Check if the Agent is bound to the server, if the tools are disabled, or if perm
 
 </details>
 
-<details>
-
-<summary>The server shows as connected, but the Agent still cannot find the tools. What should I do? </summary>
-
-Check if the Agent is bound to the server, if the tools are disabled, or if permission requests are pending. After modifying the Agent configuration, send a new message to allow the runtime to load the new tools.
-
-</details>
-
-<figure><img src="../../../../../assets/633967fe8c9224f7d27945a8.webp" alt="The Builtin Servers list in MCP settings, with an Install button for each server"><figcaption></figcaption></figure>
