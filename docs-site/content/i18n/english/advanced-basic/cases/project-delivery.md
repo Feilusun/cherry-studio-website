@@ -14,7 +14,7 @@ Operations colleagues need to organize scattered materials into an index, summar
 
 <figure><img src="../../../../assets/538ad1007c78fe2d3e4c41b6.webp" alt="An Agent conversation that ends with a generated Markdown file and an Open with button"><figcaption><p>The Agent workspace places tasks, models, working directories, and delivery files on the same page. </p></figcaption></figure>
 
-<figure><img src="../../../../assets/401d6b23759ab97ded47c2b5.webp" alt="Subtasks, background commands, and context usage in the Agent status panel"><figcaption><p>For long-running tasks, first check the [Status] panel to see if it is executing, waiting for approval, or completed. </p></figcaption></figure>
+<figure><img src="../../../../assets/d632d02956ab966e8f1594ff.webp" alt="The Files panel next to an Agent conversation, showing the generated presentation file"><figcaption><p>Generated files appear in the reply and in the Files panel on the right.</p></figcaption></figure>
 
 ## Workflow
 

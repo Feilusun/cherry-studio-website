@@ -5,9 +5,7 @@ icon: images
 
 Content teams often need to create landscape, square, and portrait images for the same campaign while maintaining consistency in subject, color tone, and brand guidelines. Establishing a key visual first and then expanding to different sizes is easier for maintaining uniformity than generating each image from scratch.
 
-<figure><img src="../../../../assets/1c3d17dc2a9692479862d303.webp" alt="The default image generation model selection in Settings"><figcaption><p>Configure and verify the drawing model first. This ensures the Agent's [Generate Image] and [Drawing] workflows have a valid connection. </p></figcaption></figure>
-
-<figure><img src="../../../../assets/d565697cb53f20f4f266e1dd.webp" alt="The image generation tool and image model in the Agent"><figcaption><p>Have the Agent generate a sample image to confirm the direction before proceeding to batch production. </p></figcaption></figure>
+<figure><img src="../../../../assets/daa7cbd0f1b2f4f701a0c0e0.webp" alt="The default image generation model selection in Settings"><figcaption><p>Configure and verify the drawing model first. This ensures the Agent's [Generate Image] and [Drawing] workflows have a valid connection. </p></figcaption></figure>
 
 <figure><img src="../../../../assets/2ba55ffd828250f31afa2b16.jpg" alt="The actual image generated on the drawing page using GPT-Image-2 express based on the Creative Workbench prompt"><figcaption><p>Use this actual generated image as the key visual draft. After confirming the subject, lighting, and color tone, expand it to square and portrait sizes. </p></figcaption></figure>
 

@@ -17,7 +17,7 @@ Agents can perform file, terminal, and network operations, and can also invoke s
 | 【Plan Only】 | Plans only, does not edit files | Solution review, pre-release audit | Suitable for reviewing the plan before execution |
 | 【Full Access】 | Skips permission checks | Isolated, trusted, recoverable environments | May delete files or access the network, highest risk |
 
-The permission scope provided by different execution modes is not exactly the same: Pi does not provide 【Plan Only】, and new Pi Agents default to 【Smart Approval】; DeepSeek Harness does not provide 【Smart Approval】; 【Enhanced: Claude Agent】 provides all five modes.
+The permission scope provided by different execution modes is not exactly the same: Pi does not provide 【Plan Only】, and new Pi Agents default to 【Smart Approval】; DeepSeek Harness does not provide 【Smart Approval】; 【Claude Agent】 provides all five modes.
 
 Configuration path: Left navigation 【Work】 → Agent menu → 【Edit】 → 【Basic】 → 【Permission Mode】.
 
@@ -50,8 +50,6 @@ The 【Status】 panel on the right allows you to view:
 * Context usage and declared artifacts.
 
 After enabling 【Settings】 → 【Notifications】 → 【Conversation Completion Notification】, when working in other tabs or windows, you will receive system notifications when the assistant reply is complete, an Agent task is complete, or approval is pending; clicking the notification returns you to the corresponding conversation.
-
-<figure><img src="../../../../assets/401d6b23759ab97ded47c2b5.webp" alt="Subtasks, background commands, and context usage in the Agent status panel"><figcaption><p>For long tasks, you can view artifacts, subtasks, background commands, and context usage in 【Status】. </p></figcaption></figure>
 
 ### User Case: Continuously Maintaining Project Standards
 

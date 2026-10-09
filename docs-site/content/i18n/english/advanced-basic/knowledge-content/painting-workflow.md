@@ -66,7 +66,7 @@ Zoom in to check human hands, product structures, text, brand logos, and edges. 
 
 First go to 【Settings】 → 【Default Models】 to select the 【Painting Model】, then open the Agent's 【Built-in Tools】 to confirm that 【Generate Image】 is enabled. After that, you can instruct the Agent in 【Work】 to read articles, refine the visual direction, and directly generate accompanying images.
 
-<figure><img src="../../../../assets/1c3d17dc2a9692479862d303.webp" alt="Drawing model selection in default model settings"><figcaption><p>The 【Painting Model】 in 【Default Models】 determines which model the Agent and related painting entry points prioritize. </p></figcaption></figure>
+<figure><img src="../../../../assets/daa7cbd0f1b2f4f701a0c0e0.webp" alt="Drawing model selection in default model settings"><figcaption><p>The 【Painting Model】 in 【Default Models】 determines which model the Agent and related painting entry points prioritize. </p></figcaption></figure>
 
 ### Application Case: Creating a Set of Brand Campaign Images
 
