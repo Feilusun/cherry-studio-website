@@ -42,19 +42,13 @@ Open the **Knowledge** tab and click **Add knowledge base** next to **Linked kno
 {% endstep %}
 
 {% step %}
-### 4. Enable Knowledge Base Search
-
-Open **Built-in Tools** and enable **Knowledge Base Search**. Read-only research, Q&A, summarization, and comparison are usually sufficient with this setting.
-{% endstep %}
-
-{% step %}
-### 5. Test with Clearly Bounded Tasks
+### 4. Test with Clearly Bounded Tasks
 
 Require the Agent to list sources before providing conclusions. If materials do not support a claim, state this explicitly; do not allow filling gaps with common sense.
 {% endstep %}
 
 {% step %}
-### 6. Accept Sources and Deliverables
+### 5. Accept Sources and Deliverables
 
 Verify which knowledge base each conclusion comes from, ensure facts and recommendations in files are separated, and confirm that parts lacking evidence are marked.
 {% endstep %}
