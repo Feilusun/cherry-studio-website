@@ -36,15 +36,15 @@ Go to **Work**, select the target Agent, and open **Edit Agent** from the menu.
 {% step %}
 ### 3. Bind the Minimum Necessary Knowledge Bases
 
-Open the **Knowledge Base** tab and click **Add Knowledge Base**. Only bind the libraries required for this task to avoid interference from cross-department or cross-version materials.
+Open the **Knowledge** tab and click **Add knowledge base** next to **Linked knowledge bases**. Only bind the libraries required for this task to avoid interference from cross-department or cross-version materials.
+
+<figure><img src="../../../assets/1d2863fd1fb833e142bc1eac.webp" alt="The Knowledge tab of the Edit Agent dialog with Linked knowledge bases and an Add knowledge base button"><figcaption><p>Link knowledge bases to the Agent in Edit Agent → Knowledge</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 4. Enable Knowledge Base Search
 
 Open **Built-in Tools** and enable **Knowledge Base Search**. Read-only research, Q&A, summarization, and comparison are usually sufficient with this setting.
-
-<figure><img src="../../../assets/2d4cb5f8568dc51d7e7ad71e.webp" alt="The Built-in tools tab in the Edit Agent dialog, with a switch for each tool"><figcaption><p>Each built-in tool has its own switch. Search is for reading; management is for modifying materials, so start with the least privilege.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
