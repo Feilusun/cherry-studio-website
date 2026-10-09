@@ -45,7 +45,7 @@ Only select skills relevant to this Agent's long-term workflow. Skills can be in
 {% step %}
 #### 4. Bind Knowledge Base
 
-Only bind knowledge bases that the Agent genuinely needs to search. If no knowledge base is bound, knowledge base search and management tools will not appear in the Agent's tool list.
+Only bind knowledge bases that the Agent genuinely needs to search. If no knowledge base is bound, the Knowledge Search and Manage Knowledge tools will not appear in the Agent's tool list.
 {% endstep %}
 {% endstepper %}
 

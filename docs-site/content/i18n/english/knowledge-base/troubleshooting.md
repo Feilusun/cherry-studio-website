@@ -176,7 +176,7 @@ Instruct the model to answer only based on citations, break the task into smalle
 
 <summary>Why can't the Agent see the knowledge base? </summary>
 
-Open 【Edit Agent】 → 【Knowledge Base】, bind the target library to the current Agent, and enable 【Knowledge Base Search】 in 【Built-in Tools】.
+Open 【Edit Agent】 → 【Knowledge】, link the target library to the current Agent, and make sure 【Knowledge Search】 is on in 【Built-in tools】.
 
 </details>
 
@@ -184,7 +184,7 @@ Open 【Edit Agent】 → 【Knowledge Base】, bind the target library to the c
 
 <summary>Does knowledge base management modify documents? </summary>
 
-Yes. 【Knowledge Base Management】 supports adding, deleting, or refreshing documents. Do not enable it for read-only tasks; check the target, impact, and rollback method before write operations.
+Yes. 【Manage Knowledge】 supports adding, deleting, or refreshing documents. Do not enable it for read-only tasks; check the target, impact, and rollback method before write operations.
 
 </details>
 

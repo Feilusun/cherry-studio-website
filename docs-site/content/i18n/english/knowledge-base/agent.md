@@ -42,13 +42,21 @@ Open the **Knowledge** tab and click **Add knowledge base** next to **Linked kno
 {% endstep %}
 
 {% step %}
-### 4. Test with Clearly Bounded Tasks
+### 4. Check the Knowledge Tools
+
+After a knowledge base is linked, **Knowledge Search** and **Manage Knowledge** appear under **Built-in tools** (in the **Context** group). Keep **Knowledge Search** on. For read-only research, Q&A, summarization, and comparison, turn **Manage Knowledge** off.
+
+<figure><img src="../../../assets/ff61dd935232699efc184495.webp" alt="The Built-in tools tab of Edit Agent with Knowledge Search and Manage Knowledge switches in the Context group"><figcaption><p>Knowledge Search and Manage Knowledge appear once a knowledge base is linked</p></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 5. Test with Clearly Bounded Tasks
 
 Require the Agent to list sources before providing conclusions. If materials do not support a claim, state this explicitly; do not allow filling gaps with common sense.
 {% endstep %}
 
 {% step %}
-### 5. Accept Sources and Deliverables
+### 6. Accept Sources and Deliverables
 
 Verify which knowledge base each conclusion comes from, ensure facts and recommendations in files are separated, and confirm that parts lacking evidence are marked.
 {% endstep %}
@@ -58,19 +66,19 @@ Verify which knowledge base each conclusion comes from, ensure facts and recomme
 
 <figure><img src="../../../assets/9a40f1cd26f6618a31c73d42.webp" alt="A selection relationship diagram illustrating the respective purposes of Agent built-in tools, knowledge bases, skills, and MCP"><figcaption><p>Use knowledge bases for looking up materials, skills for repetitive methods, and MCP for accessing external systems. Do not use expanded permissions as a substitute for clear tasks. </p></figcaption></figure>
 
-## Knowledge Base Search and Management
+## Knowledge Search and Manage Knowledge
 
 | Capability | What It Can Do | Suitable Tasks | Default Recommendation |
 | ----- | -------------- | ----------- | ----------- |
-| Knowledge Base Search | Search, list, and read bound knowledge bases | Q&A, research, summarization, comparison | Keep enabled |
-| Knowledge Base Management | Add, delete, or refresh knowledge base documents | Approved material maintenance | Disabled by default; enable temporarily as needed |
+| Knowledge Search | Search, list, and read bound knowledge bases | Q&A, research, summarization, comparison | Keep enabled |
+| Manage Knowledge | Add, delete, or refresh knowledge base documents | Approved material maintenance | Turn off for read-only tasks; turn on only when needed |
 
 {% hint style="warning" %}
 Binding a knowledge base only grants access scope; it does not create a copy of the knowledge base. After materials are updated or re-indexed, the Agent will use the updated content in the next search.
 {% endhint %}
 
 {% hint style="danger" %}
-After enabling **Knowledge Base Management**, adding, deleting, or refreshing will modify materials or indexes. Before approval, confirm the target knowledge base, specific entries, conflict resolution for same-named items, and rollback plans.
+After enabling **Manage Knowledge**, adding, deleting, or refreshing will modify materials or indexes. Before approval, confirm the target knowledge base, specific entries, conflict resolution for same-named items, and rollback plans.
 {% endhint %}
 
 ## How Agent Configuration Works Together
@@ -96,13 +104,13 @@ After enabling **Knowledge Base Management**, adding, deleting, or refreshing wi
 | Configuration Item | Recommended Starting Point | When to Increase | Risk Control |
 | ----- | ---------- | ------------ | ------------- |
 | Bound Knowledge Bases | 1 task-related library | Only if cross-library comparison is needed | Clearly state the purpose of each library in the prompt |
-| Knowledge Base Search | Enabled | Only if the task requires looking up materials | Verify sources are within the bound scope |
-| Knowledge Base Management | Disabled | Only if adding, deleting, or refreshing is explicitly needed | Approve item by item and back up important materials first |
+| Knowledge Search | Enabled | Only if the task requires looking up materials | Verify sources are within the bound scope |
+| Manage Knowledge | Disabled | Only if adding, deleting, or refreshing is explicitly needed | Approve item by item and back up important materials first |
 | Output Requirements | Separate facts, inferences, and recommendations | When generating reports or files | Keep the source name for each fact |
 
 ## User Case
 
-Xiao Lin bound **Official Manual** and **Review Cases** to the after-sales Agent, enabling only Knowledge Base Search. He required the Agent to list safety warnings, official steps, and case recommendations by device model, keeping the three separate. When old cases needed updating, he temporarily enabled the management tool, reviewed the proposed changes list, and then approved.
+Xiao Lin bound **Official Manual** and **Review Cases** to the after-sales Agent, enabling only Knowledge Search. He required the Agent to list safety warnings, official steps, and case recommendations by device model, keeping the three separate. When old cases needed updating, he temporarily enabled the management tool, reviewed the proposed changes list, and then approved.
 
 The acceptance criteria are: The Agent does not access unbound materials, does not present case recommendations as official rules, and all write operations have clear targets and acceptance results.
 
@@ -120,13 +128,13 @@ The acceptance criteria are: The Agent does not access unbound materials, does n
 
 <summary>Standard chat can find it, why can't the Agent? </summary>
 
-Check if the target knowledge base is bound to the current Agent and if **Knowledge Base Search** is enabled. Binding scopes for different Agents do not inherit from each other.
+Check if the target knowledge base is bound to the current Agent and if **Knowledge Search** is enabled. Binding scopes for different Agents do not inherit from each other.
 
 </details>
 
 <details>
 
-<summary>When should Knowledge Base Management not be enabled? </summary>
+<summary>When should Manage Knowledge be turned off? </summary>
 
 For read-only research, team-shared policy libraries, and material libraries retaining historical versions, enable only Search by default. Enable Management temporarily and approve item by item when updates are needed.
 

@@ -23,7 +23,7 @@ Configuration path: Left navigation [Work] → Open Agent menu → [Edit] → [B
 Built-in tools are grouped by context, files, multimedia, orchestration, search, and terminal. Common capabilities include:
 
 * [Image Generation]: Uses the configured drawing model;
-* [Knowledge Base Search] and [Knowledge Base Management]: Appear only after a knowledge base is bound;
+* [Knowledge Search] and [Manage Knowledge]: Appear only after a knowledge base is bound;
 * [Web Search] and [Web Scraping]: Uses the internet capabilities configured in Cherry Studio;
 * [Memory]: Saves and retrieves stable information across tasks;
 * [Scheduled Tasks] and [Notifications]: Allows the Agent to manage schedules and send results to channels;
@@ -57,7 +57,7 @@ Enabling a tool does not mean you should skip approval. For file writes, termina
 | Task Requirement | Suggested Combination | When to Add More | Notes |
 | -------- | ------------- | ------------- | ------------- |
 | Process local files | File tools + dedicated working directory | Add skills when fixed formats are needed | Keep [Confirm Each Time] enabled |
-| Answer based on internal materials | Knowledge base + Knowledge base search | Hand off to channels after retrieval is stable | Test with questions that have no answers first |
+| Answer based on internal materials | Knowledge base + Knowledge Search | Hand off to channels after retrieval is stable | Test with questions that have no answers first |
 | Execute fixed processes repeatedly | Skills + necessary built-in tools | Add MCP when external data is needed | Do not store account keys in skills |
 | Call external systems | MCP + minimal privilege credentials | Relax approvals after tasks are stable | Confirm writes, deletions, and billable operations |
 

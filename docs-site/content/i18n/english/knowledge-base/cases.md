@@ -109,7 +109,7 @@ When rules differ significantly between models, split them into independent know
 * For PDFs, first spot-check the table of contents, tables, and two-column body text.
 * Fault codes rely on precise terminology; retain BM25.
 * Add an embedding model when customer descriptions are colloquial.
-* Bind official manuals and reviewed cases to the after-sales Agent, enabling only [Knowledge Base Search].
+* Bind official manuals and reviewed cases to the after-sales Agent, enabling only [Knowledge Search].
 
 > Troubleshoot in three steps based on device model, fault code, and symptoms. Indicate for each step whether the basis comes from the official manual or a reviewed case. When disassembly, electricity, or data clearing is involved, warn of risks first and wait for confirmation.
 
