@@ -19,8 +19,6 @@ Before starting, ensure you have purchased the plan and obtained your key:
     <figure><img src="../../../../assets/e7c5f78ce7b02d24f47e524a.png" alt=""><figcaption></figcaption></figure>
 3. Copy your dedicated `API Key` in **Coding Plan** (starts with `sk-`).
 
-<figure><img src="../../../../assets/b7ad13e5818755c159e9cc7d.webp" alt=""><figcaption></figcaption></figure>
-
 ### 2. Configuration Steps
 
 #### Step 1: Locate the Provider

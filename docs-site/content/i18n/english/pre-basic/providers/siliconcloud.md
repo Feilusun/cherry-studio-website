@@ -4,10 +4,8 @@ SiliconFlow is an inference platform that hosts many open-source models (Qwen, D
 
 ## 1. Get an API Key
 
-1. Sign up or log in on [SiliconFlow](https://cloud.siliconflow.com/) (mainland China users: [cloud.siliconflow.cn](https://cloud.siliconflow.cn/))
+1. Sign up or log in on [SiliconFlow](https://cloud.siliconflow.com/)
 2. Open the **API Keys** page, then create a new key or copy an existing one
-
-<figure><img src="../../../../assets/43d95ad964cb0232107ed021.webp" alt="The API key page on the SiliconFlow console"><figcaption></figcaption></figure>
 
 ## 2. Configure in Cherry Studio
 
