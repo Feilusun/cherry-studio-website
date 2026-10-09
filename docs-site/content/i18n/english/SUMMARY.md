@@ -175,6 +175,10 @@
   * [Settings, Usage, and Background Replies](mobile/settings-and-usage.md)
   * [Troubleshooting](mobile/troubleshooting.md)
 
+## Guides
+
+* [Cherry Studio Guides](guides/README.md)
+
 ## Help & Troubleshooting
 
 * [Common Issues](question-contact/questions.md)
