@@ -40,7 +40,7 @@ Cherry Studio groups providers by protocol into the following types, which behav
 * [Mistral](../../../../pre-basic/providers/mistral.md)
 * [Perplexity](../../../../pre-basic/providers/perplexity.md)
 * [GitHub Copilot](../../../../pre-basic/providers/github-copilot.md)
-* [MiniMax Coding Plan](../../../../pre-basic/providers/minimax-coding-plan.md)
+* [MiniMax M Plan](../../../../pre-basic/providers/minimax-coding-plan.md)
 
 #### Chinese Providers
 * [DeepSeek](../../../../pre-basic/providers/deepseek.md)

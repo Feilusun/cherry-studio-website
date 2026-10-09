@@ -60,7 +60,7 @@
       * [Ollama](pre-basic/providers/ollama.md)
       * [LM Studio](pre-basic/providers/lm-studio.md)
       * [GitHub Copilot](pre-basic/providers/github-copilot.md)
-      * [MiniMax Coding Plan](pre-basic/providers/minimax-coding-plan.md)
+      * [MiniMax M Plan](pre-basic/providers/minimax-coding-plan.md)
   * [Settings](pre-basic/settings/README.md)
     * **Models**
       * [Default Model Settings](pre-basic/settings/default-models.md)

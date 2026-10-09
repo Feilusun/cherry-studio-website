@@ -15,7 +15,7 @@ MiniMax builds large models with strong **multimodal capabilities** (text, audio
 * Click **Sync models** and add the models you want, such as **MiniMax-M3** or **MiniMax-M2.7**
 
 {% hint style="info" %}
-If you subscribe to MiniMax's Coding Plan, see [MiniMax Coding Plan](minimax-coding-plan.md) for the dedicated setup.
+If you subscribe to MiniMax's M Plan, see [MiniMax M Plan](minimax-coding-plan.md) for the dedicated setup.
 {% endhint %}
 
 ***
