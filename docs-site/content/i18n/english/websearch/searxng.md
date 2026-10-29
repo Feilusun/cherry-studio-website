@@ -1,7 +1,8 @@
 ---
+description: Deploy the open-source SearXNG metasearch engine with Docker or docker compose, enable JSON output, and use it as the web search provider in Cherry Studio.
 icon: searchengin
 ---
-# SearXNG Local Deployment and Configuration
+# SearXNG Docker Setup for Cherry Studio Web Search
 
 [SearXNG](https://github.com/searxng/searxng) is an open-source metasearch engine: it sends your query to engines such as Google, Bing and DuckDuckGo and combines the results. Cherry Studio can use a SearXNG instance you run yourself as its web search provider.
 

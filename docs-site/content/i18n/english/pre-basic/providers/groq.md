@@ -1,4 +1,8 @@
-# Groq
+---
+description: Groq (not xAI's Grok) is an LPU inference service known for very low latency. Create a GroqCloud API key and use Groq-hosted open models in Cherry Studio.
+---
+
+# Groq API Key Setup Guide
 
 Groq (Note: not Grok by xAI) is an inference service known for **LPU hardware acceleration and ultra-low latency**. It primarily hosts open-source models such as Llama, Mixtral, and Whisper, with output speeds typically several times faster than standard cloud inference.
 

@@ -1,4 +1,8 @@
-# PPIO 派欧云
+---
+description: 在 PPIO 派欧云创建 API Key，把 DeepSeek、Qwen 等开源大模型接入 Cherry Studio，按步骤即可完成配置。
+---
+
+# PPIO 派欧云 API Key 获取与接入教程
 
 ## Cherry Studio 接入 PPIO LLM API
 

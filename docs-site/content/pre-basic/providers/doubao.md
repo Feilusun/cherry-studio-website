@@ -1,4 +1,8 @@
-# 火山引擎
+---
+description: 登录火山引擎方舟平台，开通模型并创建 API Key，在 Cherry Studio 中使用豆包、DeepSeek 等模型。
+---
+
+# 火山引擎（豆包）API Key 获取与接入教程
 
 * 登录 [火山引擎](https://console.volcengine.com/)
 * 直接点击 [这里直达](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D)

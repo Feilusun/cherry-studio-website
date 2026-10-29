@@ -1,4 +1,4 @@
-# CherryAI（免费）
+# CherryAI 免费模型：无需 API Key 直接使用
 
 **CherryAI** 是 Cherry Studio 官方内置的免费模型服务。无需注册第三方平台或填写 API Key，打开即可使用，适合首次体验对话和基础文本任务。
 

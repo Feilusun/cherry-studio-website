@@ -1,4 +1,8 @@
-# ModelScope（魔搭）
+---
+description: ModelScope（魔搭）每天有 2000 次免费 API 调用额度。教你获取魔搭 API 令牌，在 Cherry Studio 里接入魔搭开源模型。
+---
+
+# ModelScope 魔搭 API Key 获取与免费调用教程
 
 ## 什么是 ModelScope？
 

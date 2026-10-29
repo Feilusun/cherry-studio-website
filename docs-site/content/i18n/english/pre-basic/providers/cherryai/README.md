@@ -1,4 +1,4 @@
-# CherryAI (Free)
+# CherryAI Free Models: No API Key Needed
 
 **CherryAI** is Cherry Studio's built-in free model service. It requires no third-party registration or API key and is intended for trying chat and basic text tasks.
 

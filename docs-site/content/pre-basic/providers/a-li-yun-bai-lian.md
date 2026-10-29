@@ -1,4 +1,8 @@
-# 阿里云百炼
+---
+description: 在阿里云百炼控制台创建 API Key，把通义千问（Qwen）等模型接入 Cherry Studio，按步骤操作几分钟就能用上。
+---
+
+# 阿里云百炼 API Key 获取与接入教程
 
 1. 登录 [阿里云百炼](https://bailian.console.aliyun.com/?tab=model#/api-key)，没有阿里云账号的话需要注册。
 2. 点击右上角的 `创建我的 API-KEY` 按钮。

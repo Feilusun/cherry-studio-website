@@ -1,8 +1,9 @@
 ---
+description: 用 Docker（docker compose）部署开源搜索引擎 SearXNG，开启 JSON 输出、设置端口，接入 Cherry Studio 联网搜索。
 icon: searchengin
 ---
 
-# SearXNG 本地部署与配置
+# SearXNG 本地部署教程：Docker 部署与 Cherry Studio 配置
 
 CherryStudio 支持通过 SearXNG 进行网络搜索，SearXNG 是一个可本地部署也可在服务器上部署的开源项目，所以与其他需要 API 提供商的配置方式略有不同。
 

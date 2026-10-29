@@ -1,4 +1,8 @@
-# Groq
+---
+description: Groq（不是 xAI 的 Grok）是以 LPU 加速、低延迟见长的推理服务。教你创建 Groq API Key 并在 Cherry Studio 中使用。
+---
+
+# Groq API Key 获取与配置教程
 
 Groq（注意：不是 xAI 的 Grok）是一个以 **LPU 硬件加速、超低延迟** 见长的推理服务，主要托管 Llama / Mixtral / Whisper 等开源模型，输出速度通常是普通云推理的几倍。
 
